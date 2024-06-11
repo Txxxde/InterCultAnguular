@@ -2,8 +2,8 @@
 <div class="container-search">
   <app-search-bar></app-search-bar>
   <div class="flags">
-    <img [src]="imgEua" alt="USA Flag">
-    <img [src]="imgCanada" alt="Canada Flag">
+  <a [routerLink]="['/euaPage']"> <img [src]="imgEua" alt="USA Flag"> </a>
+   <a [routerLink]="['/content']"> <img [src]="imgCanada" alt="Canada Flag" style="height: 100%;"> </a>
     <img [src]="imgFranca" alt="France Flag">
     <img [src]="imgUK" alt="UK Flag">
     <img [src]="imgItalia" alt="Italy Flag">
