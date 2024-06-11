@@ -15,6 +15,7 @@ import { LoginDropdownComponent } from './pages/components/login-dropdown/login-
 import { ProgramsComponent } from './pages/components/programs/programs.component';
 import { SearchBarComponent } from './pages/components/search-bar/search-bar.component';
 import { EuaComponent } from './pages/eua/eua.component';
+import { FranceComponent } from './pages/france/france.component';
 
 
 
@@ -31,6 +32,7 @@ import { EuaComponent } from './pages/eua/eua.component';
     ProgramsComponent,
     SearchBarComponent,
     EuaComponent,
+    FranceComponent,
  
     
   ],

@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class EuaComponent {
   imgcidade1: string =  'assets/orlando.jpg';
-  imgcidade2: string =  'assets/orlando.jpg';
-  imgcidade3: string =  'assets/orlando.jpg';
+  imgcidade2: string =  'assets/orlando2.jpeg';
+  imgcidade3: string =  'assets/orlando3.jpg';
 
 }
