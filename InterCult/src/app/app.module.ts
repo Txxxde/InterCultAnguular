@@ -17,6 +17,7 @@ import { SearchBarComponent } from './pages/components/search-bar/search-bar.com
 import { EuaComponent } from './pages/eua/eua.component';
 import { FranceComponent } from './pages/france/france.component';
 import { UkComponent } from './pages/uk/uk.component';
+import { ItalyComponent } from './pages/italy/italy.component';
 
 
 
@@ -35,6 +36,7 @@ import { UkComponent } from './pages/uk/uk.component';
     EuaComponent,
     FranceComponent,
     UkComponent,
+    ItalyComponent,
  
     
   ],
