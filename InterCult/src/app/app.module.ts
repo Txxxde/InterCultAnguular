@@ -18,6 +18,7 @@ import { EuaComponent } from './pages/eua/eua.component';
 import { FranceComponent } from './pages/france/france.component';
 import { UkComponent } from './pages/uk/uk.component';
 import { ItalyComponent } from './pages/italy/italy.component';
+import { ProfileComponent } from './pages/profile/profile.component';
 
 
 
@@ -37,6 +38,7 @@ import { ItalyComponent } from './pages/italy/italy.component';
     FranceComponent,
     UkComponent,
     ItalyComponent,
+    ProfileComponent,
  
     
   ],
